@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/amirh/Desktop/Codes/C#/DS98991/TestCommon/TestCommon.csproj": {}
+  },
+  "projects": {
+    "/home/amirh/Desktop/Codes/C#/DS98991/TestCommon/TestCommon.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/amirh/Desktop/Codes/C#/DS98991/TestCommon/TestCommon.csproj",
+        "projectName": "TestCommon",
+        "projectPath": "/home/amirh/Desktop/Codes/C#/DS98991/TestCommon/TestCommon.csproj",
+        "packagesPath": "/home/amirh/.nuget/packages/",
+        "outputPath": "/home/amirh/Desktop/Codes/C#/DS98991/TestCommon/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/amirh/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
