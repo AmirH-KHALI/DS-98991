@@ -1,0 +1,12 @@
+/home/amirh/Desktop/Codes/C#/DS98991/TestCommon/bin/Debug/netstandard2.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/home/amirh/Desktop/Codes/C#/DS98991/TestCommon/bin/Debug/netstandard2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/home/amirh/Desktop/Codes/C#/DS98991/TestCommon/bin/Debug/netstandard2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/home/amirh/Desktop/Codes/C#/DS98991/TestCommon/bin/Debug/netstandard2.0/TestCommon.deps.json
+/home/amirh/Desktop/Codes/C#/DS98991/TestCommon/bin/Debug/netstandard2.0/TestCommon.dll
+/home/amirh/Desktop/Codes/C#/DS98991/TestCommon/bin/Debug/netstandard2.0/TestCommon.pdb
+/home/amirh/Desktop/Codes/C#/DS98991/TestCommon/obj/Debug/netstandard2.0/TestCommon.csprojAssemblyReference.cache
+/home/amirh/Desktop/Codes/C#/DS98991/TestCommon/obj/Debug/netstandard2.0/TestCommon.csproj.CoreCompileInputs.cache
+/home/amirh/Desktop/Codes/C#/DS98991/TestCommon/obj/Debug/netstandard2.0/TestCommon.AssemblyInfoInputs.cache
+/home/amirh/Desktop/Codes/C#/DS98991/TestCommon/obj/Debug/netstandard2.0/TestCommon.AssemblyInfo.cs
+/home/amirh/Desktop/Codes/C#/DS98991/TestCommon/obj/Debug/netstandard2.0/TestCommon.dll
+/home/amirh/Desktop/Codes/C#/DS98991/TestCommon/obj/Debug/netstandard2.0/TestCommon.pdb

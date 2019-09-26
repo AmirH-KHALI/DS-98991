@@ -1,0 +1,17 @@
+/home/amirh/Desktop/Codes/C#/DS98991/A1/A1/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/home/amirh/Desktop/Codes/C#/DS98991/A1/A1/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/home/amirh/Desktop/Codes/C#/DS98991/A1/A1/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/home/amirh/Desktop/Codes/C#/DS98991/A1/A1/bin/Debug/netcoreapp2.2/A1.deps.json
+/home/amirh/Desktop/Codes/C#/DS98991/A1/A1/bin/Debug/netcoreapp2.2/A1.runtimeconfig.json
+/home/amirh/Desktop/Codes/C#/DS98991/A1/A1/bin/Debug/netcoreapp2.2/A1.runtimeconfig.dev.json
+/home/amirh/Desktop/Codes/C#/DS98991/A1/A1/bin/Debug/netcoreapp2.2/A1.dll
+/home/amirh/Desktop/Codes/C#/DS98991/A1/A1/bin/Debug/netcoreapp2.2/A1.pdb
+/home/amirh/Desktop/Codes/C#/DS98991/A1/A1/bin/Debug/netcoreapp2.2/TestCommon.dll
+/home/amirh/Desktop/Codes/C#/DS98991/A1/A1/bin/Debug/netcoreapp2.2/TestCommon.pdb
+/home/amirh/Desktop/Codes/C#/DS98991/A1/A1/obj/Debug/netcoreapp2.2/A1.csprojAssemblyReference.cache
+/home/amirh/Desktop/Codes/C#/DS98991/A1/A1/obj/Debug/netcoreapp2.2/A1.csproj.CoreCompileInputs.cache
+/home/amirh/Desktop/Codes/C#/DS98991/A1/A1/obj/Debug/netcoreapp2.2/A1.AssemblyInfoInputs.cache
+/home/amirh/Desktop/Codes/C#/DS98991/A1/A1/obj/Debug/netcoreapp2.2/A1.AssemblyInfo.cs
+/home/amirh/Desktop/Codes/C#/DS98991/A1/A1/obj/Debug/netcoreapp2.2/A1.csproj.CopyComplete
+/home/amirh/Desktop/Codes/C#/DS98991/A1/A1/obj/Debug/netcoreapp2.2/A1.dll
+/home/amirh/Desktop/Codes/C#/DS98991/A1/A1/obj/Debug/netcoreapp2.2/A1.pdb
