@@ -18,8 +18,27 @@ namespace A2
 
         public virtual long Solve(long[] numbers)
         {
-            //write your code here
-            throw new NotImplementedException();
+            int fi = -1, si = -1;
+            for (int i = 0; i < numbers.Length; ++i) {
+                if (fi == -1) {
+                    fi = i;
+                } else if (numbers[i] > numbers[fi]) {
+                    fi = i;
+                }
+            }
+            for (int i = 0; i < numbers.Length; ++i) {
+                if (i != fi) {
+                    if (si == -1) {
+                        si = i;
+                    } else if (numbers[i] > numbers[si]) {
+                        si = i;
+                    }
+                }
+            }
+            if (fi != -1 && si != -1) {
+                return numbers[fi] * numbers[si];
+            }
+            return -1;
         }
     }
 }

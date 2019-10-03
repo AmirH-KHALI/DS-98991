@@ -10,7 +10,7 @@ namespace A2
     public class Q1NaiveMaxPairWise : Processor
     {
         public Q1NaiveMaxPairWise(string testDataName) : base(testDataName) { }
-        public override string Process(string inStr) => 
+        public override string Process(string inStr) =>
             Solve(inStr.Split(new char[] { '\n', '\r', ' ' },
                 StringSplitOptions.RemoveEmptyEntries)
                  .Select(s => long.Parse(s))
@@ -18,9 +18,22 @@ namespace A2
 
         public virtual long Solve(long[] numbers)
         {
-            //write your code here
-            throw new NotImplementedException();
+            long p = 0;
+            for (int i = 0; i < numbers.Length; ++i) {
+                for (int j = 0; j < numbers.Length; ++j) {
+                    if (i != j) {
+                        if (p < numbers[i] * numbers[j]) {
+                            p = numbers[i] * numbers[j];
+                        }
+                    }
+                }
+            }
+            return p;
+            // throw new NotImplementedException();
+        }
+
+        public static void Main(string[] args) {
+
         }
     }
 }
-
