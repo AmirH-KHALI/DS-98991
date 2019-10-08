@@ -12,7 +12,19 @@ namespace A3
 
         public long Solve(long a, long b)
         {
-            throw new NotImplementedException();
+            return (a * b) / gcd(a, b);
+        }
+
+        public long gcd (long a, long b) {
+            
+            if (b > a) {
+                long c = b;
+                b = a;
+                a = c;
+            }
+
+            if (b == 0) return a;
+            return gcd(b, a % b);            
         }
     }
 }
