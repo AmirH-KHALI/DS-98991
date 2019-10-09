@@ -12,7 +12,17 @@ namespace A3
 
         public long Solve(long n)
         {
-            throw new NotImplementedException();
+            long first = 0, second = 1;
+            long[] dp = new long[1000000 + 20];
+            dp[0] = first;
+            dp[1] = second;
+            int i = 2; 
+            do {
+                dp[i] = (dp[i - 1] + dp[i - 2]) % 10;
+                ++i;
+            } while(!(first == dp[i - 2] && second == dp[i - 1]));
+            long m = i - 2;
+            return dp[n % m] * dp[(n + 1) % m] % 10;
         }
     }
 }
