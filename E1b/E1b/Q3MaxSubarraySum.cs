@@ -14,7 +14,14 @@ namespace E1b
 
         public virtual long Solve(long n, long[] numbers)
         {
-            throw new NotImplementedException();
+            long[] dp = new long[n];
+            dp[0] = numbers[0];
+            long ans = dp[0];
+            for (int i = 1; i < n; ++i) {
+                dp[i] = Math.Max(dp[i - 1] + numbers[i], numbers[i]);
+                ans = Math.Max(ans, dp[i]);
+            }
+            return ans;
         }
     }
 }
