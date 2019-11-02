@@ -1,4 +1,4 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 using TestCommon;
 
 namespace A5.Tests
@@ -35,7 +35,7 @@ namespace A5.Tests
         [TestMethod(), Timeout(1000)]
         public void SolveTest_Q6ClosestPoints()
         {
-            RunTest(new Q5OrganizingLottery("TD6"));
+            RunTest(new Q6ClosestPoints ("TD6"));
         }
 
         public static void RunTest(Processor p)
