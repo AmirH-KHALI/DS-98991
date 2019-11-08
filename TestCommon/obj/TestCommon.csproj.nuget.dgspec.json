@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\asus\\Desktop\\Codes\\DS98991\\TestCommon\\TestCommon.csproj": {}
+    "C:\\Users\\asus\\Desktop\\Codes\\DS\\DS98991\\TestCommon\\TestCommon.csproj": {}
   },
   "projects": {
-    "C:\\Users\\asus\\Desktop\\Codes\\DS98991\\TestCommon\\TestCommon.csproj": {
+    "C:\\Users\\asus\\Desktop\\Codes\\DS\\DS98991\\TestCommon\\TestCommon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asus\\Desktop\\Codes\\DS98991\\TestCommon\\TestCommon.csproj",
+        "projectUniqueName": "C:\\Users\\asus\\Desktop\\Codes\\DS\\DS98991\\TestCommon\\TestCommon.csproj",
         "projectName": "TestCommon",
-        "projectPath": "C:\\Users\\asus\\Desktop\\Codes\\DS98991\\TestCommon\\TestCommon.csproj",
+        "projectPath": "C:\\Users\\asus\\Desktop\\Codes\\DS\\DS98991\\TestCommon\\TestCommon.csproj",
         "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asus\\Desktop\\Codes\\DS98991\\TestCommon\\obj\\",
+        "outputPath": "C:\\Users\\asus\\Desktop\\Codes\\DS\\DS98991\\TestCommon\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
